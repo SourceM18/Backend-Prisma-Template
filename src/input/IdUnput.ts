@@ -1,0 +1,1 @@
+export type idInput = { id: number };
